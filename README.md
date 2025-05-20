@@ -6,8 +6,7 @@ This workshop covers **common security vulnerabilities in Python** and shows how
 
 📅 **Date:** May 20, 2025  
 👨‍🏫 **Author:** Zia Ur Rehman  
-📩 Email: engrziaurrehman.kicsit@gmail.com  
-🔗 [GitHub](https://github.com/ZiaUrRehman-bit) | [PyPI](https://pypi.org/user/ZiaUrRehman-bit) | [ResearchGate](https://www.researchgate.net/profile/Zia-Rehman-53)
+🔗 [GitHub](https://github.com/ZiaUrRehman-bit) | [PyPI](https://pypi.org/user/ZiaUrRehman-bit) | [ResearchGate](https://www.researchgate.net/profile/Zia-Rehman-53) | [LinedIn](https://www.linkedin.com/in/zia-ur-rehman-217a6212b/)
 
 ---
 
