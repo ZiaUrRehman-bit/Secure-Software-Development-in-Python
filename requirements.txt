@@ -1,0 +1,2 @@
+python-decouple==3.8
+python_bcrypt==0.3.2
